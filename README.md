@@ -42,6 +42,11 @@ El proyecto sigue una organización limpia en paquetes y recursos:
 - **Arquitectura**: MVVM (Model-View-ViewModel)
 - **Android Jetpack Components**: Navigation, ViewModel, LiveData (si aplica)
 - **IDE**: Android Studio
+![image](https://github.com/user-attachments/assets/30d4d840-501a-4440-a5c4-d2b6170df16a)
+![image](https://github.com/user-attachments/assets/2f8d5741-bdc3-4daa-b844-c28509d8e81c)
+![image](https://github.com/user-attachments/assets/ce32c240-e6b2-48a3-8ba3-c426650f4a38)
+
+
 
 ---
 
